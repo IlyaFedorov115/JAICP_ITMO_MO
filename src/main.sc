@@ -10,7 +10,7 @@ theme: /
         intent!: /привет
         a: Привет привет
 
-    state: /currency
+    state: currency
         q!: курс
         a: 1$ это 70 рубл
 
